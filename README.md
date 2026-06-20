@@ -63,7 +63,7 @@ nav ul{display:none}
 
 <nav>
 <div class="logo">
-<img src="https://via.placeholder.com/100">
+<img src="Image.jpeg" alt="Hasibullah Musazai">
 <b>Your Name</b>
 </div>
 <ul>
@@ -84,13 +84,13 @@ nav ul{display:none}
 <a href="#contact" class="btn">Hire Me</a>
 <a href="#" class="btn btn2">Download CV</a>
 </div>
-<img src="https://via.placeholder.com/500x500.png?text=Profile" alt="profile">
+<img src="Image.jpeg" alt="Hasibullah Musazai">
 </section>
 
 <section id="about" class="reveal">
 <div class="title"><p>ABOUT ME</p><h2>Passionate Web Developer</h2></div>
 <div class="about-wrap">
-<div><img src="https://via.placeholder.com/500x600.png?text=About+Image"></div>
+<div><img src="Image.jpeg" alt="Hasibullah Musazai">
 <div>
 <p>I create clean and modern websites with a focus on performance, usability and responsive design.</p>
 <div class="stats">
