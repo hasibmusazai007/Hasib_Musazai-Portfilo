@@ -1,5 +1,4 @@
-# Hasib_Musazai
-<!DOCTYPE html>
+# Hasibullah Musazai
 <html lang="en">
 <head>
 <meta charset="UTF-8">
