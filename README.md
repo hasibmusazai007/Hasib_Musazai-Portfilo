@@ -129,9 +129,9 @@ nav ul{display:none}
 <div class="title"><p>GET IN TOUCH</p><h2>Contact Me</h2></div>
 <div class="contact-wrap">
 <div>
-<div class="contact-box"><h3>Email</h3><p>youremail@gmail.com</p></div><br>
-<div class="contact-box"><h3>Phone</h3><p>+93 XXX XXX XXX</p></div><br>
-<div class="contact-box"><h3>Location</h3><p>Afghanistan</p></div>
+<div class="contact-box"><h3>Email</h3><p>h47816mz@gmail.com</p></div><br>
+<div class="contact-box"><h3>Phone</h3><p>+93 787-088-141</p></div><br>
+<div class="contact-box"><h3>Location</h3><p>Kabul, Afghanistan</p></div>
 </div>
 <form>
 <input placeholder="Name">
@@ -143,7 +143,7 @@ nav ul{display:none}
 </div>
 </section>
 
-<footer>© 2026 Your Name. All Rights Reserved.</footer>
+<footer>© 2026 Hasibullah Musazai. All Rights Reserved.</footer>
 
 <script>
 const texts=["Full Stack Developer","Frontend Developer","PHP Laravel Developer"];
