@@ -145,7 +145,7 @@ nav ul{display:none}
 <footer>© 2026 Hasibullah Musazai. All Rights Reserved.</footer>
 
 <script>
-const texts=["Full Stack Developer","Frontend Developer","PHP Laravel Developer"];
+const texts=["Structure Engineer & Business Development Manager","Frontend Developer","PHP Laravel Developer"];
 let i=0,j=0,current="",erase=false;
 function type(){
 if(!erase && j<=texts[i].length){current=texts[i].substring(0,j++);}
